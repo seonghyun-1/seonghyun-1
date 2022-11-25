@@ -1,6 +1,6 @@
 ### Hi there I'm seonghyun!
 🌱 I’m currently learning Java Spring to make web application server. thank you!
-💬 Contact Me : developer7098@gmail.com
+- 💬 Contact Me : developer7098@gmail.com
 
 
 
